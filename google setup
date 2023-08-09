@@ -1,0 +1,19 @@
+/**
+ *                       ----Inital Setup----
+ * 
+ * 
+ * 1.visite firebase
+ * 2.create a project
+ * 3.register app
+ * 4.install firebase
+ * 5.add config file to your project
+ * 6.danger: do not publicly pushing github
+ * 7.go to docs build authintaction web get started
+ * 8.export app fire base config in login route
+ * 9.const auth = getauth(app)
+ * 10.add provider
+ * 11.import google provider
+ * 12.useSingIngPoup
+ * 13.Activate singInMethord
+ * 14.change localhost
+ * */ 
